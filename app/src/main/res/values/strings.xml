@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="email">Ingresar Email</string>
+    <string name="password">Ingresar Password</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="usuario">Ingrese Usuario</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="facebook_app_id">279859825848739</string>
+    <string name="fb_login_protocol_scheme">fb279859825848739</string>
+</resources>

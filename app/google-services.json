@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779738262909",
+    "firebase_url": "https://ejercicio2-e0fc7.firebaseio.com",
+    "project_id": "ejercicio2-e0fc7",
+    "storage_bucket": "ejercicio2-e0fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779738262909:android:615732a67e11c49f",
+        "android_client_info": {
+          "package_name": "co.edu.ucc.ejercicio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779738262909-6n5fgo5adcm600ftg8lqaosebmf80b0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.ucc.ejercicio2",
+            "certificate_hash": "c734e6d762422b1e6b2f4cac1d6f7285dcabaa60"
+          }
+        },
+        {
+          "client_id": "779738262909-i4rhv860nok3tbva4ejhq48mt647uh3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAYTga_aFPoU5ktT-6wFt5CASSzGRVSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779738262909-i4rhv860nok3tbva4ejhq48mt647uh3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
